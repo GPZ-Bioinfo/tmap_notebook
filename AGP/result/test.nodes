@@ -1,0 +1,250 @@
+feature	cat
+Alistipes	Genus
+kidney_disease:I do not have this condition	Health
+bmi_cat:Underweight	Anthropometrics
+Erysipelotrichaceae_incertae_sedis	Genus
+chickenpox:false	Health (medication)
+Anaerofilum	Genus
+frozen_dessert_frequency:Never	Dietary habit
+lowgrain_diet_type	Dietary habit
+country:Ireland	Anthropometrics
+Eubacterium	Genus
+bmi_cat:Normal	Anthropometrics
+Taibaiella	Genus
+subset_diabetes	Health
+Rickettsia	Genus
+Asaia	Genus
+Holdemanella	Genus
+exercise_location:None of the above	Life style
+Barnesiella	Genus
+vitamin_b_supplement_frequency:Never	Dietary habit
+gluten:I do not eat gluten because it makes me feel bad	Dietary habit
+allergic_to_i_have_no_food_allergies_that_i_know_of	Health
+Oxalobacter	Genus
+economic_region:Southeast	Anthropometrics
+red_meat_frequency:Occasionally (1-2 times/week)	Dietary habit
+country_residence:Jersey	Anthropometrics
+Sorangium	Genus
+subset_ibd	Health
+Cloacibacillus	Genus
+unclassfied_f:Staphylococcaceae	Genus
+Hespellia	Genus
+Parabacteroides	Genus
+red_meat_frequency:Never	Dietary habit
+diabetes:I do not have this condition	Health
+census_region:Northeast	Sample description
+collection_month:March	Sample description
+unclassfied_f:Micrococcaceae	Genus
+subset_healthy	Health
+economic_region:Far West	Anthropometrics
+seasonal_allergies	Health
+Negativicoccus	Genus
+Methanomassiliicoccus	Genus
+subset_antibiotic_history	Health (medication)
+alzheimers:Diagnosed by an alternative medicine practitioner	Health
+fed_as_infant:Primarily breast milk	Dietary habit
+Campylobacter	Genus
+cardiovascular_disease:I do not have this condition	Health
+Romboutsia	Genus
+prepared_meals_frequency:Rarely (less than once/week)	Dietary habit
+country:Sweden	Anthropometrics
+Dorea	Genus
+country_residence:Czech Republic	Anthropometrics
+mental_illness_type_unspecified	Health
+Intestinibacter	Genus
+acid_reflux:I do not have this condition	Health
+Clostridium_sensu_stricto	Genus
+unclassfied_f:Planctomycetaceae	Genus
+mental_illness	Health
+Gaiella	Genus
+unclassfied_f:Pseudomonadaceae	Genus
+unclassfied_f:Puniceicoccaceae	Genus
+last_travel:I have not been outside of my country of residence in the past year.	Anthropometrics
+alcohol_consumption	Life style
+Peptoniphilus	Genus
+mental_illness_type_depression	Health
+salted_snacks_frequency:Rarely (less than once/week)	Dietary habit
+Lactobacillus	Genus
+milk_substitute_frequency:Never	Dietary habit
+Methanosphaera	Genus
+age_cat:60s	Anthropometrics
+add_adhd:I do not have this condition	Health
+sibo:I do not have this condition	Health
+country:Hong Kong	Anthropometrics
+elevation	Sample description
+Vagococcus	Genus
+unclassfied_f:Lachnospiraceae	Genus
+livingwith:true	Anthropometrics
+Phascolarctobacterium	Genus
+whole_grain_frequency:Daily	Dietary habit
+economic_region:Great Lakes	Anthropometrics
+Anaerococcus	Genus
+artificial_sweeteners:Never	Dietary habit
+breastmilk_formula_ensure:false	Dietary habit
+country_residence:Sweden	Anthropometrics
+allergic_to_unspecified	Health
+poultry_frequency:Never	Dietary habit
+epilepsy_or_seizure_disorder:I do not have this condition	Health
+Catenibacterium	Genus
+Blautia	Genus
+cardiovascular_disease:Diagnosed by an alternative medicine practitioner	Health
+country:Austria	Anthropometrics
+Terrisporobacter	Genus
+Akkermansia	Genus
+Microvirgula	Genus
+Clostridium_XVIII	Genus
+Prevotella	Genus
+Leclercia	Genus
+ibd_diagnosis_refined:Ileal Crohn's Disease	Health
+economic_region:New England	Anthropometrics
+vegetable_frequency:Daily	Dietary habit
+cancer_treatment:Surgery only	Health (medication)
+Yuhushiella	Genus
+Macellibacteroides	Genus
+collection_season:Spring	Sample description
+other_supplement_frequency	Dietary habit
+whole_eggs:Regularly (3-5 times/week)	Dietary habit
+roommates:None	Anthropometrics
+Butyricimonas	Genus
+antibiotic_history:6 months	Health (medication)
+milk_cheese_frequency:Daily	Dietary habit
+Intestinimonas	Genus
+country_residence:United States	Anthropometrics
+census_region:South	Sample description
+country_residence:Malta	Anthropometrics
+exercise_location:Outdoors	Life style
+homecooked_meals_frequency:Daily	Dietary habit
+exercise_frequency:Never	Life style
+Anaerobiospirillum	Genus
+"unclassfied_f:""Saprospiraceae"""	Genus
+Moryella	Genus
+Clostridium_IV	Genus
+multivitamin	Dietary habit
+ibd_diagnosis:Ulcerative colitis	Health
+ready_to_eat_meals_frequency:Never	Dietary habit
+high_fat_red_meat_frequency:Never	Dietary habit
+country:Czech Republic	Anthropometrics
+Victivallis	Genus
+Hydrogenophilus	Genus
+fruit_frequency:Daily	Dietary habit
+cdiff:I do not have this condition	Health
+last_travel:Month	Anthropometrics
+antibiotic_history:I have not taken antibiotics in the past year.	Health (medication)
+country_residence:Austria	Anthropometrics
+olive_oil:Daily	Dietary habit
+Howardella	Genus
+Aquisphaera	Genus
+Nitrosospira	Genus
+Fusicatenibacter	Genus
+subset_bmi	Anthropometrics
+ibd_diagnosis:Crohn's disease	Health
+Coprococcus	Genus
+country:Slovakia	Anthropometrics
+race:Caucasian	Anthropometrics
+census_region:West	Sample description
+Micromonospora	Genus
+country:Germany	Anthropometrics
+unclassfied_f:Oxalobacteraceae	Genus
+country:Malta	Anthropometrics
+sugar_sweetened_drink_frequency:Never	Dietary habit
+country:USA	Anthropometrics
+unclassfied_f:Paenibacillaceae_1	Genus
+Parasutterella	Genus
+Roseburia	Genus
+age_cat:child	Anthropometrics
+alcohol_types_red_wine	Life style
+census_region:Midwest	Sample description
+unclassfied_f:Erysipelotrichaceae	Genus
+frozen_dessert_frequency:Rarely (less than once/week)	Dietary habit
+thyroid:I do not have this condition	Health
+country_residence:Slovakia	Anthropometrics
+alzheimers:I do not have this condition	Health
+Bacteroides	Genus
+Pseudoflavonifractor	Genus
+alcohol_types_unspecified	Life style
+Sporobacter	Genus
+Belnapia	Genus
+Butyrivibrio	Genus
+unclassfied_f:Ruminococcaceae	Genus
+unclassfied_f:Clostridiales_Incertae_Sedis_XIII	Genus
+meat_eggs_frequency:Occasionally (1-2 times/week)	Dietary habit
+pregnant:false	Anthropometrics
+liver_disease:I do not have this condition	Health
+country:Georgia	Anthropometrics
+ibd:I do not have this condition	Health
+Erysipelothrix	Genus
+Desulfovibrio	Genus
+one_liter_of_water_a_day_frequency:Daily	Dietary habit
+ibd_diagnosis_refined:Ulcerative colitis	Health
+exercise_location:Depends on the season	Life style
+vivid_dreams:Never	Life style
+country_residence:Georgia	Anthropometrics
+Oscillibacter	Genus
+Lachnobacterium	Genus
+Bifidobacterium	Genus
+country_residence:Hong Kong	Anthropometrics
+country_residence:Italy	Anthropometrics
+non_food_allergies_unspecified	Health
+country_residence:Ireland	Anthropometrics
+salted_snacks_frequency:Never	Dietary habit
+unclassfied_f:Acidaminococcaceae	Genus
+cosmetics_frequency:Never	Life style
+vitamin_d_supplement_frequency:Never	Dietary habit
+Porphyromonas	Genus
+bowel_movement_quality:I tend to have normal formed stool - Type 3 and 4	Bowel habit
+Faecalicoccus	Genus
+chickenpox:true	Health (medication)
+poultry_frequency:Occasionally (1-2 times/week)	Dietary habit
+Lachnospiracea_incertae_sedis	Genus
+flossing_frequency:Daily	Life style
+Clostridium_XlVb	Genus
+country_residence:Germany	Anthropometrics
+seafood_frequency:Occasionally (1-2 times/week)	Dietary habit
+Holdemania	Genus
+seafood_frequency:Regularly (3-5 times/week)	Dietary habit
+unclassfied_f:Coriobacteriaceae	Genus
+Bilophila	Genus
+country:Switzerland	Anthropometrics
+economic_region:Rocky Mountain	Anthropometrics
+Subdoligranulum	Genus
+clinical_condition:I do not have this condition	Health
+country_residence:Croatia	Anthropometrics
+autoimmune:I do not have this condition	Health
+Finegoldia	Genus
+unclassfied_f:Veillonellaceae	Genus
+Senegalimassilia	Genus
+Anaerostipes	Genus
+Acetobacter	Genus
+age_cat:70+	Anthropometrics
+"unclassfied_f:""Porphyromonadaceae"""	Genus
+age_cat:50s	Anthropometrics
+Eggerthella	Genus
+probiotic_frequency:Never	Health (medication)
+country_residence:United Kingdom	Anthropometrics
+Odoribacter	Genus
+age_years	Anthropometrics
+sex:male	Anthropometrics
+meat_eggs_frequency:Regularly (3-5 times/week)	Dietary habit
+Slackia	Genus
+country_residence:Switzerland	Anthropometrics
+Mogibacterium	Genus
+Ruminococcus	Genus
+cancer:I do not have this condition	Health
+Spiroplasma	Genus
+Papillibacter	Genus
+country:United Kingdom	Anthropometrics
+Acetanaerobacterium	Genus
+bowel_movement_quality:I tend to have normal formed stool	Bowel habit
+ibs:I do not have this condition	Health
+asd:I do not have this condition	Health
+level_of_education:Graduate or Professional degree	Anthropometrics
+country:Italy	Anthropometrics
+Methanobrevibacter	Genus
+fungal_overgrowth:I do not have this condition	Health
+Flavonifractor	Genus
+last_move:I have lived in my current state of residence for more than a year.	Anthropometrics
+country:Croatia	Anthropometrics
+alcohol_types_white_wine	Life style
+bowel_movement_frequency:One	Bowel habit
+cancer:Diagnosed by a medical professional (doctor, physician assistant)	Health
+consume_animal_products_abx:Not sure	Health (medication)

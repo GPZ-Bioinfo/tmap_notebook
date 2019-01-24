@@ -1,0 +1,4 @@
+n_comps,comps_size,other feature,"Fisher test pvalue(co-enriched,enriched)","Fisher test pvalue(co-enriched,others)",coenriched-enriched pvalue,coenriched-others pvalue,enriched-others pvalue,coverage/%
+comps0,19,Flavonifractor,0.0006285163869678059,9.218067662041618e-14,,0.00224929649066349,,57.89473684210527
+comps0,19,Bacteroides,2.8787449593175765e-09,1.3632982989165896e-13,,0.0027243104601334858,,14.728682170542637
+comps0,19,Clostridium_XlVb,3.224194354435679e-06,2.728336348500107e-11,,0.04587675137558302,,17.582417582417584

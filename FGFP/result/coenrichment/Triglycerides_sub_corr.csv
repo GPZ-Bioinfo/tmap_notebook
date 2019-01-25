@@ -1,4 +1,0 @@
-n_comps,comps_size,other feature,"Fisher test pvalue(co-enriched,enriched)","Fisher test pvalue(co-enriched,others)",coenriched-enriched pvalue,coenriched-others pvalue,enriched-others pvalue,coverage/%
-comps1,17,unclassified_Euzebyaceae,0.026055426055425965,8.131896902171702e-06,,0.0006697294490218288,,22.58064516129032
-comps1,17,Uric_acid,1.1853558764313865e-07,2.8007394358946943e-16,,0.02217021764468581,,21.794871794871796
-comps1,17,Bloating_.days_past_week.option,0.026055426055425965,1.633910177430636e-06,,0.03679467871054443,,28.000000000000004

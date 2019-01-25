@@ -1,4 +1,0 @@
-n_comps,comps_size,other feature,"Fisher test pvalue(co-enriched,enriched)","Fisher test pvalue(co-enriched,others)",coenriched-enriched pvalue,coenriched-others pvalue,enriched-others pvalue,coverage/%
-comps3,17,Megasphaera,0.008834338811455523,4.658369973380573e-08,,0.00282417753934134,,26.47058823529412
-comps3,17,Streptococcus,0.0030509874903467526,4.610315094338599e-08,,0.0031159524680513502,,21.73913043478261
-comps3,17,Body_mass_index,1.1853558764313865e-07,8.820829126930997e-19,,0.016391777515770693,,29.310344827586203

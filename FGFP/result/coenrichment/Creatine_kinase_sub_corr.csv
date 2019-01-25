@@ -1,4 +1,0 @@
-n_comps,comps_size,other feature,"Fisher test pvalue(co-enriched,enriched)","Fisher test pvalue(co-enriched,others)",coenriched-enriched pvalue,coenriched-others pvalue,enriched-others pvalue,coverage/%
-comps3,16,Bloating_.days_past_week.option,1.3825138723746181e-06,3.9141187698800084e-13,,0.003114307531555083,,44.0
-comps3,16,Smoking_with_inhalation:Ja,0.005828678485931351,0.005684735226818188,,0.0057298156982296625,,11.11111111111111
-comps3,16,Uric_acid,3.531422358939849e-07,1.90872722475633e-11,0.6338389313837578,0.0331299578598803,0.42894348166590124,17.94871794871795

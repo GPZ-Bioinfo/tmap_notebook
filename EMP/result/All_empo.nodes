@@ -1,0 +1,24 @@
+feature	cat
+empo_3_Animal surface	Animal
+empo_2_Non-saline	Non-Saline
+empo_2_Saline	Saline
+empo_3_Sediment (non-saline)	Non-Saline
+empo_3_Plant rhizosphere	Plant
+empo_3_Animal proximal gut	Animal
+empo_3_Water (non-saline)	Non-Saline
+empo_1_Host-associated	EMPO1
+empo_3_Animal corpus	Animal
+empo_3_Sediment (saline)	Saline
+empo_1_Free-living	EMPO1
+empo_3_Hypersaline (saline)	Saline
+empo_3_Surface (saline)	Saline
+empo_3_Animal secretion	Animal
+empo_2_Plant	Plant
+empo_3_Animal distal gut	Animal
+empo_3_Aerosol (non-saline)	Non-Saline
+empo_3_Soil (non-saline)	Non-Saline
+empo_3_Plant surface	Plant
+empo_2_Animal	Animal
+empo_3_Plant corpus	Plant
+empo_3_Surface (non-saline)	Non-Saline
+empo_3_Water (saline)	Saline

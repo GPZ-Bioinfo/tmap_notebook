@@ -1,5 +1,0 @@
-n_comps,comps_size,other feature,"Fisher test pvalue(co-enriched,enriched)","Fisher test pvalue(co-enriched,others)",coenriched-enriched pvalue,coenriched-others pvalue,enriched-others pvalue,coverage/%
-comps1,48,unclassified_Erysipelotrichaceae,0.00016167820413786913,1.0423518887840408e-12,,0.008741267191906436,,26.956521739130434
-comps1,48,Howardella,0.010882781437665703,0.0002687896634519467,,0.012822836412262948,,17.24137931034483
-comps1,48,Allobaculum,0.010882781437665703,3.694999821978744e-10,,0.01628346537844023,,35.714285714285715
-comps1,48,unclassified_Lachnospiraceae,1.534702844600492e-07,3.543720408208984e-21,,0.028541903570162012,,28.187919463087248

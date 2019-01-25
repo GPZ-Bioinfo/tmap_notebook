@@ -1,0 +1,433 @@
+metadata,Category
+study_id,Others
+read_length_bp,sequencing
+latitude_deg,collection infomation
+longitude_deg,collection infomation
+depth_m,collection infomation
+altitude_m,collection infomation
+elevation_m,collection infomation
+adiv_observed_otus,alpha diver
+adiv_chao1,alpha diver
+adiv_shannon,alpha diver
+adiv_faith_pd,alpha diver
+technology_GAIIx,sequencing
+technology_HiSeq,sequencing
+technology_MiSeq,sequencing
+extraction_center_ANL-Chicago,sequencing
+extraction_center_Barnard,sequencing
+extraction_center_CCME-Boulder,sequencing
+extraction_center_LBNL-Berkeley,sequencing
+extraction_center_NIG-Japan,sequencing
+sample_scientific_name_Thalassia testudinum,Others
+sample_scientific_name_activated carbon metagenome,Others
+sample_scientific_name_air metagenome,Others
+sample_scientific_name_algae metagenome,Others
+sample_scientific_name_bat metagenome,Others
+sample_scientific_name_biofilm metagenome,Others
+sample_scientific_name_bovine gut metagenome,Others
+sample_scientific_name_coral metagenome,Others
+sample_scientific_name_ecological metagenomes,Others
+sample_scientific_name_estuary metagenome,Others
+sample_scientific_name_fish metagenome,Others
+sample_scientific_name_freshwater metagenome,Others
+sample_scientific_name_freshwater sediment metagenome,Others
+sample_scientific_name_groundwater metagenome,Others
+sample_scientific_name_gut metagenome,Others
+sample_scientific_name_human gut metagenome,Others
+sample_scientific_name_human metagenome,Others
+sample_scientific_name_human nasal/pharyngeal metagenome,Others
+sample_scientific_name_human oral metagenome,Others
+sample_scientific_name_human skin metagenome,Others
+sample_scientific_name_hydrocarbon metagenome,Others
+sample_scientific_name_hydrothermal vent metagenome,Others
+sample_scientific_name_hypersaline lake metagenome,Others
+sample_scientific_name_indoor metagenome,Others
+sample_scientific_name_insect metagenome,Others
+sample_scientific_name_marine metagenome,Others
+sample_scientific_name_marine sediment metagenome,Others
+sample_scientific_name_metagenomes,Others
+sample_scientific_name_microbial mat metagenome,Others
+sample_scientific_name_mine drainage metagenome,Others
+sample_scientific_name_organismal metagenomes,Others
+sample_scientific_name_permafrost metagenome,Others
+sample_scientific_name_primate metagenome,Others
+sample_scientific_name_rat metagenome,Others
+sample_scientific_name_rhizosphere metagenome,Others
+sample_scientific_name_root metagenome,Others
+sample_scientific_name_seawater metagenome,Others
+sample_scientific_name_sediment metagenome,Others
+sample_scientific_name_skin metagenome,Others
+sample_scientific_name_soil metagenome,Others
+sample_scientific_name_upper respiratory tract metagenome,Others
+host_scientific_name_Acropora,collection infomation
+host_scientific_name_Acropora yongei,collection infomation
+host_scientific_name_Anthopleura elegantissima,collection infomation
+host_scientific_name_Aphis gossypii,collection infomation
+host_scientific_name_Apinae,collection infomation
+host_scientific_name_Apis mellifera,collection infomation
+host_scientific_name_Ateles geoffroyi,collection infomation
+host_scientific_name_Balaenoptera acutorostrata,collection infomation
+host_scientific_name_Balaenoptera physalus,collection infomation
+host_scientific_name_Blattellinae,collection infomation
+host_scientific_name_Bos taurus,collection infomation
+host_scientific_name_Canis lupus familiaris,collection infomation
+host_scientific_name_Cannabis sativa,collection infomation
+host_scientific_name_Carollia castanea,collection infomation
+host_scientific_name_Carollia perspicillata,collection infomation
+host_scientific_name_Carollia sowelli,collection infomation
+host_scientific_name_Catostomus,collection infomation
+host_scientific_name_Catostomus discobolus,collection infomation
+host_scientific_name_Chiroxiphia lanceolata,collection infomation
+host_scientific_name_Choloepus hoffmanni,collection infomation
+host_scientific_name_Cicadellidae,collection infomation
+host_scientific_name_Clamator glandarius,collection infomation
+host_scientific_name_Columba livia,collection infomation
+host_scientific_name_Columbidae,collection infomation
+host_scientific_name_Columbina passerina,collection infomation
+host_scientific_name_Columbina talpacoti,collection infomation
+host_scientific_name_Coracias garrulus,collection infomation
+host_scientific_name_Corvus monedula,collection infomation
+host_scientific_name_Crotalus viridis viridis,collection infomation
+host_scientific_name_Delisea pulchra,collection infomation
+host_scientific_name_Delphinus delphis,collection infomation
+host_scientific_name_Drosophila immigrans,collection infomation
+host_scientific_name_Ecklonia radiata,collection infomation
+host_scientific_name_Formicidae,collection infomation
+host_scientific_name_Gila robusta,collection infomation
+host_scientific_name_Globicephala macrorhynchus,collection infomation
+host_scientific_name_Glossophaga soricina,collection infomation
+host_scientific_name_Hexapoda,collection infomation
+host_scientific_name_Homo sapiens,collection infomation
+host_scientific_name_Ictalurus punctatus,collection infomation
+host_scientific_name_Iguana,collection infomation
+host_scientific_name_Iguana iguana,collection infomation
+host_scientific_name_Lagenorhynchus acutus,collection infomation
+host_scientific_name_Lauxaniidae,collection infomation
+host_scientific_name_Macropus sp.,collection infomation
+host_scientific_name_Melursus ursinus,collection infomation
+host_scientific_name_Molossus sinaloae,collection infomation
+host_scientific_name_Montastraea annularis,collection infomation
+host_scientific_name_Myotis elegans,collection infomation
+host_scientific_name_Myrmecophaga tridactyla,collection infomation
+host_scientific_name_Mytilus californianus,collection infomation
+host_scientific_name_Nasalis larvatus,collection infomation
+host_scientific_name_Orycteropus afer,collection infomation
+host_scientific_name_Oryctolagus cuniculus,collection infomation
+host_scientific_name_Oryza sativa,collection infomation
+host_scientific_name_Otus scops,collection infomation
+host_scientific_name_Parus major,collection infomation
+host_scientific_name_Passer montanus,collection infomation
+host_scientific_name_Pemphiginae,collection infomation
+host_scientific_name_Pentalonia nigronervosa,collection infomation
+host_scientific_name_Phaeophyceae,collection infomation
+host_scientific_name_Phoca vitulina,collection infomation
+host_scientific_name_Phyllospora comosa,collection infomation
+host_scientific_name_Pica pica,collection infomation
+host_scientific_name_Platycichla flavipes,collection infomation
+host_scientific_name_Pocillopora verrucosa,collection infomation
+host_scientific_name_Porites,collection infomation
+host_scientific_name_Proteles cristatus,collection infomation
+host_scientific_name_Pteronotus davyi,collection infomation
+host_scientific_name_Pteronotus parnellii,collection infomation
+host_scientific_name_Pygathrix nemaeus,collection infomation
+host_scientific_name_Ramphocelus carbo,collection infomation
+host_scientific_name_Rana catesbeiana,collection infomation
+host_scientific_name_Rattus norvegicus,collection infomation
+host_scientific_name_Rhinopithecus brelichi,collection infomation
+host_scientific_name_Rhinopithecus roxellana,collection infomation
+host_scientific_name_Rhodophyta,collection infomation
+host_scientific_name_Rusa unicolor,collection infomation
+host_scientific_name_Saltator maximus,collection infomation
+host_scientific_name_Siphonaptera,collection infomation
+host_scientific_name_Stenella attenuata,collection infomation
+host_scientific_name_Syncerus caffer caffer,collection infomation
+host_scientific_name_Thraupis,collection infomation
+host_scientific_name_Thraupis palmarum,collection infomation
+host_scientific_name_Trachypithecus auratus,collection infomation
+host_scientific_name_Turdus merula,collection infomation
+host_scientific_name_Turdus olivater,collection infomation
+host_scientific_name_Upupa epops,collection infomation
+host_scientific_name_Ursus americanus americanus,collection infomation
+host_scientific_name_Varanus indicus,collection infomation
+host_scientific_name_Varanus komodoensis,collection infomation
+host_scientific_name_Varanus olivaceus,collection infomation
+host_scientific_name_Vombatidae,collection infomation
+host_scientific_name_Vulpes vulpes,collection infomation
+host_scientific_name_Xylocopinae,collection infomation
+host_scientific_name_Zonotrichia capensis,collection infomation
+country_GAZ:Antarctica,collection infomation
+country_GAZ:Arctic Ocean,collection infomation
+country_GAZ:Argentina,collection infomation
+country_GAZ:Australia,collection infomation
+country_GAZ:Belize,collection infomation
+country_GAZ:Brazil,collection infomation
+country_GAZ:Canada,collection infomation
+country_GAZ:China,collection infomation
+country_GAZ:Costa Rica,collection infomation
+country_GAZ:Curacao Island,collection infomation
+country_GAZ:England,collection infomation
+country_GAZ:English Channel,collection infomation
+country_GAZ:France,collection infomation
+country_GAZ:French Polynesia,collection infomation
+country_GAZ:Germany,collection infomation
+country_GAZ:Greenland,collection infomation
+country_GAZ:Gulf of Mexico,collection infomation
+country_GAZ:India,collection infomation
+country_GAZ:Italy,collection infomation
+country_GAZ:Japan,collection infomation
+country_GAZ:Kenya,collection infomation
+country_GAZ:Malaysia,collection infomation
+country_GAZ:Mexico,collection infomation
+country_GAZ:Mongolia,collection infomation
+country_GAZ:New Zealand,collection infomation
+country_GAZ:Nicaragua,collection infomation
+country_GAZ:North Atlantic Ocean,collection infomation
+country_GAZ:Norway,collection infomation
+country_GAZ:Pacific Ocean,collection infomation
+country_GAZ:Panama,collection infomation
+country_GAZ:Puerto Rico,collection infomation
+country_GAZ:Russia,collection infomation
+country_GAZ:Scotland,collection infomation
+country_GAZ:Singapore,collection infomation
+country_GAZ:South Africa,collection infomation
+country_GAZ:Spain,collection infomation
+country_GAZ:Sweden,collection infomation
+country_GAZ:Tanzania,collection infomation
+country_GAZ:United Kingdom,collection infomation
+country_GAZ:United States of America,collection infomation
+country_GAZ:Venezuela,collection infomation
+env_biome_Large lake biome,env_biome
+env_biome_Large river biome,env_biome
+env_biome_Small lake biome,env_biome
+env_biome_Small river biome,env_biome
+env_biome_anthropogenic terrestrial biome,env_biome
+env_biome_aquatic biome,env_biome
+env_biome_coniferous forest biome,env_biome
+env_biome_cropland biome,env_biome
+env_biome_dense settlement biome,env_biome
+env_biome_desert biome,env_biome
+env_biome_estuarine biome,env_biome
+env_biome_forest biome,env_biome
+env_biome_freshwater biome,env_biome
+env_biome_grassland biome,env_biome
+env_biome_mangrove biome,env_biome
+env_biome_marginal sea biome,env_biome
+env_biome_marine benthic biome,env_biome
+env_biome_marine biome,env_biome
+env_biome_marine coral reef biome,env_biome
+env_biome_marine pelagic biome,env_biome
+env_biome_mediterranean shrubland biome,env_biome
+env_biome_mediterranean woodland biome,env_biome
+env_biome_mixed forest biome,env_biome
+env_biome_montane grassland biome,env_biome
+env_biome_montane shrubland biome,env_biome
+env_biome_polar desert biome,env_biome
+env_biome_rangeland biome,env_biome
+env_biome_shrubland biome,env_biome
+env_biome_temperate coniferous forest biome,env_biome
+env_biome_temperate grassland biome,env_biome
+env_biome_temperate mixed forest biome,env_biome
+env_biome_terrestrial biome,env_biome
+env_biome_tropical broadleaf forest biome,env_biome
+env_biome_tropical coniferous forest biome,env_biome
+env_biome_tropical grassland biome,env_biome
+env_biome_tropical moist broadleaf forest biome,env_biome
+env_biome_tropical shrubland biome,env_biome
+env_biome_tundra biome,env_biome
+env_biome_urban biome,env_biome
+env_biome_village biome,env_biome
+env_feature_Oil palm plantation,env_f/m
+env_feature_abyssalpelagic zone,env_f/m
+env_feature_agricultural feature,env_f/m
+env_feature_agricultural soil,env_f/m
+env_feature_alkaline habitat,env_f/m
+env_feature_alluvial paddy field soil,env_f/m
+env_feature_animal-associated habitat,env_f/m
+env_feature_anthropogenic environmental material,env_f/m
+env_feature_basin,env_f/m
+env_feature_bathypelagic zone,env_f/m
+env_feature_bay,env_f/m
+env_feature_biofilter,env_f/m
+env_feature_bog,env_f/m
+env_feature_city,env_f/m
+env_feature_coastal water body,env_f/m
+env_feature_coffee plantation,env_f/m
+env_feature_cold temperature habitat,env_f/m
+env_feature_contaminated sediment,env_f/m
+env_feature_contaminated water,env_f/m
+env_feature_continental shelf,env_f/m
+env_feature_coral reef,env_f/m
+env_feature_cove,env_f/m
+env_feature_creek,env_f/m
+env_feature_cultivated habitat,env_f/m
+env_feature_dam,env_f/m
+env_feature_dry lake,env_f/m
+env_feature_dry soil,env_f/m
+env_feature_estuary,env_f/m
+env_feature_extreme high temperature habitat,env_f/m
+env_feature_farm soil,env_f/m
+env_feature_field,env_f/m
+env_feature_field soil,env_f/m
+env_feature_fjord,env_f/m
+env_feature_forest soil,env_f/m
+env_feature_fresh water,env_f/m
+env_feature_freshwater habitat,env_f/m
+env_feature_freshwater lake,env_f/m
+env_feature_garden soil,env_f/m
+env_feature_grassland soil,env_f/m
+env_feature_haline habitat,env_f/m
+env_feature_high temperature habitat,env_f/m
+env_feature_hot spring,env_f/m
+env_feature_human-associated habitat,env_f/m
+env_feature_hydrothermal vent,env_f/m
+env_feature_insecta-associated habitat,env_f/m
+env_feature_intertidal zone,env_f/m
+env_feature_kelp forest,env_f/m
+env_feature_lagoon,env_f/m
+env_feature_lake,env_f/m
+env_feature_luvisol,env_f/m
+env_feature_marine feature,env_f/m
+env_feature_marine habitat,env_f/m
+env_feature_marine sediment,env_f/m
+env_feature_mesopelagic zone,env_f/m
+env_feature_microbial mat,env_f/m
+env_feature_mountain,env_f/m
+env_feature_neritic zone,env_f/m
+env_feature_nest of bird,env_f/m
+env_feature_ocean,env_f/m
+env_feature_ocean floor,env_f/m
+env_feature_oil contaminated soil,env_f/m
+env_feature_organism-associated habitat,env_f/m
+env_feature_pasture,env_f/m
+env_feature_permafrost,env_f/m
+env_feature_photic zone,env_f/m
+env_feature_plant-associated habitat,env_f/m
+env_feature_podzol,env_f/m
+env_feature_pond,env_f/m
+env_feature_rice field,env_f/m
+env_feature_river,env_f/m
+env_feature_sea beach,env_f/m
+env_feature_sea vent,env_f/m
+env_feature_sinkhole,env_f/m
+env_feature_steppe soil,env_f/m
+env_feature_strait,env_f/m
+env_feature_stream,env_f/m
+env_feature_stromatolite mat,env_f/m
+env_feature_surface soil,env_f/m
+env_feature_taiga,env_f/m
+env_feature_tropical soil,env_f/m
+env_feature_tundra,env_f/m
+env_feature_vineyard,env_f/m
+env_feature_volcano,env_f/m
+env_feature_water well,env_f/m
+env_material_air,env_f/m
+env_material_animal habitation,env_f/m
+env_material_anthropogenic environmental material,env_f/m
+env_material_avian egg product,env_f/m
+env_material_biofilm,env_f/m
+env_material_biofilm material,env_f/m
+env_material_bodily fluid,env_f/m
+env_material_brackish water,env_f/m
+env_material_bulk soil,env_f/m
+env_material_carcass,env_f/m
+env_material_coastal water,env_f/m
+env_material_contaminated sediment,env_f/m
+env_material_dust,env_f/m
+env_material_estuary sediment,env_f/m
+env_material_estuary water,env_f/m
+env_material_excreta,env_f/m
+env_material_feces,env_f/m
+env_material_fresh water,env_f/m
+env_material_hypersaline water,env_f/m
+env_material_lake sediment,env_f/m
+env_material_marine sediment,env_f/m
+env_material_microbial mat,env_f/m
+env_material_microbial mat material,env_f/m
+env_material_mucus,env_f/m
+env_material_ocean water,env_f/m
+env_material_organic material,env_f/m
+env_material_rhizosphere,env_f/m
+env_material_saline lake sediment,env_f/m
+env_material_saline water,env_f/m
+env_material_saliva,env_f/m
+env_material_sand,env_f/m
+env_material_sea water,env_f/m
+env_material_sebum,env_f/m
+env_material_sediment,env_f/m
+env_material_soil,env_f/m
+env_material_stream sediment,env_f/m
+env_material_stromatolite mat,env_f/m
+env_material_surface layer,env_f/m
+env_material_travertine,env_f/m
+env_material_wood,env_f/m
+envo_biome_1_aquatic biome,env_biome
+envo_biome_1_terrestrial biome,env_biome
+envo_biome_2_anthropogenic terrestrial biome,env_biome
+envo_biome_2_desert biome,env_biome
+envo_biome_2_forest biome,env_biome
+envo_biome_2_freshwater biome,env_biome
+envo_biome_2_grassland biome,env_biome
+envo_biome_2_mangrove biome,env_biome
+envo_biome_2_marine biome,env_biome
+envo_biome_2_shrubland biome,env_biome
+envo_biome_2_tundra biome,env_biome
+envo_biome_2_woodland biome,env_biome
+envo_biome_3_broadleaf forest biome,env_biome
+envo_biome_3_coniferous forest biome,env_biome
+envo_biome_3_cropland biome,env_biome
+envo_biome_3_dense settlement biome,env_biome
+envo_biome_3_estuarine biome,env_biome
+envo_biome_3_freshwater lake biome,env_biome
+envo_biome_3_freshwater river biome,env_biome
+envo_biome_3_marginal sea biome,env_biome
+envo_biome_3_marine benthic biome,env_biome
+envo_biome_3_marine pelagic biome,env_biome
+envo_biome_3_mixed forest biome,env_biome
+envo_biome_3_montane grassland biome,env_biome
+envo_biome_3_montane shrubland biome,env_biome
+envo_biome_3_polar desert biome,env_biome
+envo_biome_3_rangeland biome,env_biome
+envo_biome_3_subtropical shrubland biome,env_biome
+envo_biome_3_subtropical woodland biome,env_biome
+envo_biome_3_temperate grassland biome,env_biome
+envo_biome_3_tropical grassland biome,env_biome
+envo_biome_3_tropical shrubland biome,env_biome
+envo_biome_3_village biome,env_biome
+envo_biome_4_Large lake biome,env_biome
+envo_biome_4_Large river biome,env_biome
+envo_biome_4_Small lake biome,env_biome
+envo_biome_4_Small river biome,env_biome
+envo_biome_4_marine reef biome,env_biome
+envo_biome_4_mediterranean shrubland biome,env_biome
+envo_biome_4_mediterranean woodland biome,env_biome
+envo_biome_4_temperate coniferous forest biome,env_biome
+envo_biome_4_temperate mixed forest biome,env_biome
+envo_biome_4_tropical broadleaf forest biome,env_biome
+envo_biome_4_tropical coniferous forest biome,env_biome
+envo_biome_4_urban biome,env_biome
+envo_biome_5_marine coral reef biome,env_biome
+envo_biome_5_tropical moist broadleaf forest biome,env_biome
+empo_0_EMP sample,empo
+empo_1_Free-living,empo
+empo_1_Host-associated,empo
+empo_2_Animal,empo
+empo_2_Non-saline,empo
+empo_2_Plant,empo
+empo_2_Saline,empo
+empo_3_Aerosol (non-saline),empo
+empo_3_Animal corpus,empo
+empo_3_Animal distal gut,empo
+empo_3_Animal proximal gut,empo
+empo_3_Animal secretion,empo
+empo_3_Animal surface,empo
+empo_3_Hypersaline (saline),empo
+empo_3_Plant corpus,empo
+empo_3_Plant rhizosphere,empo
+empo_3_Plant surface,empo
+empo_3_Sediment (non-saline),empo
+empo_3_Sediment (saline),empo
+empo_3_Soil (non-saline),empo
+empo_3_Surface (non-saline),empo
+empo_3_Surface (saline),empo
+empo_3_Water (non-saline),empo
+empo_3_Water (saline),empo

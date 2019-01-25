@@ -1,3 +1,0 @@
-n_comps,comps_size,other feature,"Fisher test pvalue(co-enriched,enriched)","Fisher test pvalue(co-enriched,others)",coenriched-enriched pvalue,coenriched-others pvalue,enriched-others pvalue,coverage/%
-comps1,13,Bloating_.days_past_week.option,0.00022114108801415358,5.4106548673355564e-15,,0.003114307531555083,,44.0
-comps1,13,Roseburia,0.00022114108801415358,3.652813736945802e-06,,0.0036902205097670473,,8.148148148148149

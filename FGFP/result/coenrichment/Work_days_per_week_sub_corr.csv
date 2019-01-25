@@ -1,4 +1,0 @@
-n_comps,comps_size,other feature,"Fisher test pvalue(co-enriched,enriched)","Fisher test pvalue(co-enriched,others)",coenriched-enriched pvalue,coenriched-others pvalue,enriched-others pvalue,coverage/%
-comps4,40,Red_blood_cell_count,0.00021018323307153415,8.283549802268197e-09,0.09864761042929915,0.010540976588731687,0.22866632913746854,25.31645569620253
-comps4,40,Leuconostoc,0.04207045524016228,1.1857145087772244e-08,,0.0367138563627041,,80.0
-comps4,40,Pseudobutyrivibrio,0.020691076899682567,0.009590715506832761,,0.04060206329499129,,16.363636363636363

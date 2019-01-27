@@ -1,1 +1,3 @@
-n_comps,comps_size,other feature,"Fisher test pvalue(co-enriched,enriched)","Fisher test pvalue(co-enriched,others)",coenriched-enriched pvalue,coenriched-others pvalue,enriched-others pvalue,coverage/%
+version https://git-lfs.github.com/spec/v1
+oid sha256:b61f9ac350050acf037d09c5c90f8df5981f4dc32c7efde7ccf8dc7bca70fdd3
+size 203

@@ -1,54 +1,55 @@
 Source	End	weight	type
-empo_1_Free-living	empo_2_Non-saline	82.1148398037779	diff level
-empo_1_Free-living	empo_2_Saline	133.36935244229787	diff level
-empo_1_Free-living	empo_3_Hypersaline (saline)	14.587497473594347	diff level
-empo_1_Free-living	empo_3_Sediment (non-saline)	49.23684899897349	diff level
-empo_1_Free-living	empo_3_Sediment (saline)	76.88525244497525	diff level
-empo_1_Free-living	empo_3_Soil (non-saline)	25.489919474346177	diff level
-empo_1_Free-living	empo_3_Surface (non-saline)	8.239291693168271	diff level
-empo_1_Free-living	empo_3_Surface (saline)	22.294989935183306	diff level
-empo_1_Free-living	empo_3_Water (non-saline)	119.97636597760508	diff level
-empo_1_Free-living	empo_3_Water (saline)	96.62876103225372	diff level
-empo_2_Non-saline	empo_3_Plant rhizosphere	11.053594894169153	diff level
-empo_2_Non-saline	empo_3_Sediment (non-saline)	98.93912779250319	diff level
-empo_2_Non-saline	empo_3_Soil (non-saline)	90.49057193585581	diff level
-empo_2_Non-saline	empo_3_Surface (non-saline)	89.21035542088549	diff level
-empo_2_Non-saline	empo_3_Water (non-saline)	65.58770862109695	diff level
-empo_2_Saline	empo_3_Hypersaline (saline)	24.68087540217716	diff level
-empo_2_Saline	empo_3_Sediment (saline)	54.39384745139029	diff level
-empo_2_Saline	empo_3_Surface (saline)	144.83914021980965	diff level
-empo_2_Saline	empo_3_Water (saline)	174.9736701451919	diff level
-empo_3_Hypersaline (saline)	empo_3_Sediment (saline)	31.42146687839198	diff level
-empo_3_Hypersaline (saline)	empo_3_Water (non-saline)	9.335594011868416	diff level
-empo_3_Sediment (non-saline)	empo_3_Plant rhizosphere	21.842079334397372	diff level
-empo_3_Sediment (non-saline)	empo_3_Sediment (saline)	9.81594984221077	diff level
-empo_3_Sediment (non-saline)	empo_3_Soil (non-saline)	23.863087193102817	diff level
-empo_3_Sediment (non-saline)	empo_3_Water (non-saline)	26.649868333692503	diff level
-empo_3_Sediment (saline)	empo_3_Surface (saline)	25.87381864410891	diff level
-empo_3_Sediment (saline)	empo_3_Water (non-saline)	22.688282942459782	diff level
-empo_3_Soil (non-saline)	empo_3_Plant rhizosphere	36.858563720916955	diff level
-empo_3_Soil (non-saline)	empo_3_Water (non-saline)	30.55723250401475	diff level
-empo_3_Surface (saline)	empo_3_Plant surface	27.92403096626308	diff level
-empo_3_Surface (saline)	empo_3_Water (saline)	7.301420737208008	diff level
-empo_1_Host-associated	empo_2_Animal	169.7984611113258	diff level
-empo_1_Host-associated	empo_2_Plant	83.04344509471474	diff level
-empo_1_Host-associated	empo_3_Animal corpus	51.5495140891123	diff level
-empo_1_Host-associated	empo_3_Animal distal gut	76.711165598394	diff level
-empo_1_Host-associated	empo_3_Animal proximal gut	29.226214169083576	diff level
-empo_1_Host-associated	empo_3_Animal secretion	44.853575205872886	diff level
-empo_1_Host-associated	empo_3_Plant corpus	57.45152353017592	diff level
-empo_1_Host-associated	empo_3_Plant surface	26.76166662879016	diff level
-empo_2_Animal	empo_3_Aerosol (non-saline)	31.59788276003637	diff level
-empo_2_Animal	empo_3_Animal corpus	67.65516130643968	diff level
-empo_2_Animal	empo_3_Animal distal gut	153.87081433477942	diff level
-empo_2_Animal	empo_3_Animal proximal gut	81.82528990774706	diff level
-empo_2_Animal	empo_3_Animal secretion	68.7841077716721	diff level
-empo_2_Animal	empo_3_Animal surface	65.04757665133191	diff level
-empo_2_Plant	empo_3_Plant corpus	114.03638668113886	diff level
-empo_2_Plant	empo_3_Plant rhizosphere	11.657260647247917	diff level
-empo_2_Plant	empo_3_Plant surface	126.39985236880793	diff level
-empo_3_Animal distal gut	empo_3_Aerosol (non-saline)	10.544116384157999	diff level
-empo_3_Animal distal gut	empo_3_Animal proximal gut	72.34349533055595	diff level
-empo_3_Animal distal gut	empo_3_Animal surface	11.092928366860411	diff level
-empo_3_Animal proximal gut	empo_3_Aerosol (non-saline)	22.408370215408752	diff level
-empo_3_Aerosol (non-saline)	empo_3_Animal surface	90.1194028560882	diff level
+empo_2_Plant	empo_3_Plant corpus	114.72103504652038	diff level
+empo_2_Plant	empo_1_Host-associated	80.5957939127787	diff level
+empo_2_Plant	empo_3_Plant surface	111.17378770540961	diff level
+empo_2_Plant	empo_3_Plant rhizosphere	9.006757482796358	diff level
+empo_3_Plant corpus	empo_1_Host-associated	55.18183281717081	diff level
+empo_3_Hypersaline (saline)	empo_1_Free-living	12.739363717028594	diff level
+empo_3_Hypersaline (saline)	empo_3_Water (non-saline)	8.407625338835926	diff level
+empo_3_Hypersaline (saline)	empo_2_Saline	23.287763178235807	diff level
+empo_3_Hypersaline (saline)	empo_3_Sediment (saline)	30.10305047484198	diff level
+empo_3_Hypersaline (saline)	empo_3_Surface (saline)	5.104214237755724	diff level
+empo_3_Sediment (saline)	empo_1_Free-living	61.84371015020904	diff level
+empo_3_Sediment (saline)	empo_2_Saline	46.12762886648018	diff level
+empo_3_Sediment (saline)	empo_3_Water (non-saline)	17.220260129260087	diff level
+empo_3_Sediment (saline)	empo_3_Sediment (non-saline)	4.69097273623871	diff level
+empo_3_Sediment (saline)	empo_3_Surface (saline)	22.40228640310144	diff level
+empo_3_Animal distal gut	empo_3_Animal proximal gut	68.12319956583578	diff level
+empo_3_Animal distal gut	empo_1_Host-associated	76.54958299656447	diff level
+empo_3_Animal distal gut	empo_3_Animal surface	9.329198824495727	diff level
+empo_3_Animal distal gut	empo_2_Animal	150.27758355945556	diff level
+empo_3_Animal distal gut	empo_3_Aerosol (non-saline)	10.946189976959236	diff level
+empo_1_Free-living	empo_3_Surface (non-saline)	6.430236640976634	diff level
+empo_1_Free-living	empo_2_Saline	124.17371454015195	diff level
+empo_1_Free-living	empo_3_Soil (non-saline)	24.643193272289597	diff level
+empo_1_Free-living	empo_3_Water (saline)	90.42537380540885	diff level
+empo_1_Free-living	empo_2_Non-saline	81.21528029965636	diff level
+empo_1_Free-living	empo_3_Surface (saline)	19.867776393121442	diff level
+empo_1_Free-living	empo_3_Water (non-saline)	115.68044419492479	diff level
+empo_1_Free-living	empo_3_Sediment (non-saline)	47.90303578794929	diff level
+empo_3_Surface (non-saline)	empo_2_Non-saline	81.97646602744418	diff level
+empo_2_Non-saline	empo_3_Sediment (non-saline)	98.31219290490831	diff level
+empo_2_Non-saline	empo_3_Water (non-saline)	62.53246044801044	diff level
+empo_2_Non-saline	empo_3_Soil (non-saline)	88.84208397838638	diff level
+empo_2_Non-saline	empo_3_Plant rhizosphere	8.810317609534051	diff level
+empo_3_Animal surface	empo_2_Animal	60.81637188502928	diff level
+empo_3_Animal surface	empo_3_Aerosol (non-saline)	90.67173521215894	diff level
+empo_3_Soil (non-saline)	empo_3_Water (non-saline)	25.867633910091925	diff level
+empo_3_Soil (non-saline)	empo_3_Sediment (non-saline)	24.656223199920692	diff level
+empo_3_Soil (non-saline)	empo_3_Plant rhizosphere	38.11899524332959	diff level
+empo_3_Aerosol (non-saline)	empo_3_Animal proximal gut	19.884884707040634	diff level
+empo_3_Aerosol (non-saline)	empo_2_Animal	30.95406646797252	diff level
+empo_3_Animal proximal gut	empo_1_Host-associated	25.771188294886773	diff level
+empo_3_Animal proximal gut	empo_2_Animal	79.63760457258759	diff level
+empo_3_Animal corpus	empo_1_Host-associated	47.49592094289471	diff level
+empo_3_Animal corpus	empo_2_Animal	63.32981240142915	diff level
+empo_2_Saline	empo_3_Water (saline)	168.4561507393428	diff level
+empo_2_Saline	empo_3_Surface (saline)	137.10914802154548	diff level
+empo_3_Water (saline)	empo_3_Surface (saline)	5.692121482733077	diff level
+empo_1_Host-associated	empo_3_Plant surface	20.534124188076664	diff level
+empo_1_Host-associated	empo_3_Animal secretion	42.13021011434802	diff level
+empo_1_Host-associated	empo_2_Animal	166.45527775946928	diff level
+empo_3_Surface (saline)	empo_3_Plant surface	30.63598778554501	diff level
+empo_3_Animal secretion	empo_2_Animal	65.78958456917944	diff level
+empo_3_Sediment (non-saline)	empo_3_Water (non-saline)	22.065910525958234	diff level
+empo_3_Sediment (non-saline)	empo_3_Plant rhizosphere	19.54074502551125	diff level
